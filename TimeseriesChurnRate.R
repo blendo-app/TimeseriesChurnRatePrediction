@@ -1,4 +1,8 @@
 library(sqldf)
+library(glmnet)
+library(randomForest)
+library(ggplot2)
+library(caret)
 data<-table_1_
 data$totalpractions<-0
 data$totalactions[is.na(data$totalactions)]<-0
