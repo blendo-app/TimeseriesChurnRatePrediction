@@ -5,7 +5,7 @@ This R code is an example of Timeseries Email Churn Prediction utilizing various
 
 We attempt to classify the email subscribers in those who will churn and those who won't, based on data collected from email campaigns launched through [Mailchimp](https://mailchimp.com/).
 
-You can find the whole analysis here: 
+You can find the whole analysis here: https://blog.blendo.co/how-to-predict-churn-model-data/
 
 ## Usage
 
